@@ -1,9 +1,0 @@
-echo "# test" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/mcastroblanco/test.git
-git push -u origin master
-print("This file was created within RStudio")
-
-print("And now it lives on GitHub")
